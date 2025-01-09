@@ -4,3 +4,7 @@ export type Customers = {
   email: string;
   preferredName: string;
 };
+
+export interface Record {
+  [key: string]: any;
+}
