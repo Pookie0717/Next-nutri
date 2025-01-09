@@ -5,6 +5,6 @@ export type Customers = {
   preferredName: string;
 };
 
-export interface Record {
+export type Record = {
   [key: string]: any;
 }

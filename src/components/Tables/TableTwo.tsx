@@ -97,6 +97,7 @@ const TableTwo = () => {
             <p className="text-sm text-meta-3">${product.profit}</p>
           </div> */}
         </div>
+        
       ))}
     </div>
   );
